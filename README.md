@@ -1,7 +1,4 @@
-# examplegit-day27
-Lab for day 27
-## Features
-### UI
-- UI of the app for the bank, with details
-
-### That's all, thank you!
+# Enterprise Web Platform
+## Version 1.0 Release Notes (release/v1.0)
+- Initial stable release v1.0.0.
+- Includes UI Plan.
