@@ -1,0 +1,9 @@
+{
+  "environment": "production",
+  "version": "1.0.0",
+  "featureFlags": {
+    "enableNewDashboardUI": true,
+    "enableBetaMFA": true,
+    "enableAdvancedAnalytics": false
+  }
+}
